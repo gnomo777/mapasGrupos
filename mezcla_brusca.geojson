@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Casa Kolacho",
+        "event": "Viernes de concierto",
+        "date": "2015-09-25",
+        "capacity": 500,
+        "occupation": 80,
+        "price": 0,
+        "founder": "Casa kolacho",
+        "lineup": "El D Arrieros, Mezcla Brusca,Blaze one,",
+        "link": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61466932296753,
+          6.255956825960504
+        ]
+      }
+    }
+  ]
+}
