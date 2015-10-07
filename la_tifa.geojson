@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza gardel",
+        "event": "Altavoz",
+        "date": "2015-10-04",
+        "capacity": "NA",
+        "occupation": 100,
+        "price": 0,
+        "founder": "Alcaldia de medellin",
+        "lineup": "La Furrusca, Unidad 69, La Tifa",
+        "link": "https://www.facebook.com/AltavozFest/photos/a.455310194483343.119537.455302404484122/1148266948520994/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58681726455688,
+          6.21788691762208
+        ]
+      }
+    }
+  ]
+}
