@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Plaza Gardel",
+        "event": "Altavoz",
+        "date": "2015-10-04",
+        "capacity": "NA",
+        "cappacity": "NA",
+        "price": 0,
+        "founder": "Alcaldia de Medellin",
+        "lineup": "La Furrusca, Llama Naciente, , Rise",
+        "link": "https://www.facebook.com/AltavozFest/photos/a.455310194483343.119537.455302404484122/1148266948520994/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5867475271225,
+          6.21788158476181
+        ]
+      }
+    }
+  ]
+}
